@@ -25,6 +25,7 @@
 #include "vtkPolyData.h"
 #include "vtkUnsignedCharArray.h"
 
+#include <algorithm>
 #include <ctype.h>
 
 

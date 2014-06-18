@@ -30,6 +30,7 @@
 #include "vtkTransform2D.h"
 #include "vtkVectorOperators.h"
 
+#include <algorithm>
 #include <cassert>
 #include <limits>
 

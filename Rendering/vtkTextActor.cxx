@@ -32,6 +32,8 @@
 #include "vtkTexture.h"
 #include "vtkRenderer.h"
 
+#include <algorithm>
+
 vtkStandardNewMacro(vtkTextActor);
 vtkCxxSetObjectMacro(vtkTextActor,Texture,vtkTexture);
 

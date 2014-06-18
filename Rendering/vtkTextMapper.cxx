@@ -18,6 +18,7 @@
 #include "vtkTextProperty.h"
 #include "vtkToolkits.h"
 
+#include <algorithm>
 
 //----------------------------------------------------------------------------
 // Needed when we don't use the vtkStandardNewMacro.

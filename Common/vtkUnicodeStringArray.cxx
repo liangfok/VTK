@@ -19,6 +19,7 @@
 #include "vtkObjectFactory.h"
 #include "vtkUnicodeStringArray.h"
 
+#include <algorithm>
 #include <vector>
 
 class vtkUnicodeStringArray::Implementation

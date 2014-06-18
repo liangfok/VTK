@@ -41,6 +41,7 @@
 #include "vtkStreamingDemandDrivenPipeline.h"
 #include "vtkIncrementalPointLocator.h"
 
+#include <algorithm>
 #include <math.h>
 
 vtkStandardNewMacro(vtkCutter);
