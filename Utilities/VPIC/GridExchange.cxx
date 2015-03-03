@@ -51,6 +51,8 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <iostream>
 #include <iomanip>
 
+#include <algorithm>
+
 using namespace std;
 
 /////////////////////////////////////////////////////////////////////////

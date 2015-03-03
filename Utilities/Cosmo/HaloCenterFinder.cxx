@@ -52,6 +52,8 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <set>
 #include <math.h>
 
+#include <algorithm>
+
 using namespace std;
 
 /////////////////////////////////////////////////////////////////////////
